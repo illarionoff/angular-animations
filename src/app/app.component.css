@@ -1,0 +1,13 @@
+.wrap {
+  padding-top: 3 rem;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.box {
+  width: 120px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
